@@ -1,0 +1,106 @@
+[
+    {
+        "id": "menu-1",
+        "title": "hamburguesas",
+        "description": "menu- description",
+        "its-for-sale": false,
+        "section": "hamburguesas",
+        "price": {
+            "value": 25000,
+            "sale-price": null,
+            "currency": "ARS"
+        },
+        "image": "https://api-middleware-mcd.mcdonaldscupones.com/media/image/product$kqXakvb9/200/200/original?country=ar"
+    },
+    {
+        "id": "menu-2",
+        "title": "hamburguesas",
+        "description": "menu- description",
+        "its-for-sale": false,
+        "section": "hamburguesas",
+        "price": {
+            "value": 25000,
+            "sale-price": null,
+            "currency": "ARS"
+        },
+        "image": "https://api-middleware-mcd.mcdonaldscupones.com/media/image/product$kqXakvb9/200/200/original?country=ar"
+    },
+    {
+        "id": "menu-3",
+        "title": "bebidas",
+        "description": "menu- description",
+        "its-for-sale": false,
+        "section": "bebidas",
+        "price": {
+            "value": 25000,
+            "sale-price": null,
+            "currency": "ARS"
+        },
+        "image": "https://api-middleware-mcd.mcdonaldscupones.com/media/image/product$kqXakvb9/200/200/original?country=ar"
+    },
+    {
+        "id": "menu-4",
+        "title": "postres",
+        "description": "menu- description",
+        "its-for-sale": false,
+        "section": "postres",
+        "price": {
+            "value": 25000,
+            "sale-price": null,
+            "currency": "ARS"
+        },
+        "image": "https://api-middleware-mcd.mcdonaldscupones.com/media/image/product$kqXakvb9/200/200/original?country=ar"
+    },
+    {
+        "id": "menu-5",
+        "title": "hamburguesas",
+        "description": "menu- description",
+        "its-for-sale": false,
+        "section": "hamburguesas",
+        "price": {
+            "value": 25000,
+            "sale-price": 23000,
+            "currency": "ARS"
+        },
+        "image": "https://api-middleware-mcd.mcdonaldscupones.com/media/image/product$kqXakvb9/200/200/original?country=ar"
+    },
+    {
+        "id": "menu-6",
+        "title": "ofertas",
+        "description": "menu- description",
+        "its-for-sale": true,
+        "section": "ofertas",
+        "price": {
+            "value": 25000,
+            "sale-price": null,
+            "currency": "ARS"
+        },
+        "image": "https://api-middleware-mcd.mcdonaldscupones.com/media/image/product$kqXakvb9/200/200/original?country=ar"
+    },
+    {
+        "id": "menu-7",
+        "title": "hamburguesas",
+        "description": "menu- description",
+        "its-for-sale": false,
+        "section": "hamburguesas",
+        "price": {
+            "value": 25000,
+            "sale-price": null,
+            "currency": "ARS"
+        },
+        "image": "https://api-middleware-mcd.mcdonaldscupones.com/media/image/product$kqXakvb9/200/200/original?country=ar"
+    },
+    {
+        "id": "menu-7",
+        "title": "test",
+        "description": "menu- description",
+        "its-for-sale": false,
+        "section": "test",
+        "price": {
+            "value": 25000,
+            "sale-price": null,
+            "currency": "ARS"
+        },
+        "image": "https://api-middleware-mcd.mcdonaldscupones.com/media/image/product$kqXakvb9/200/200/original?country=ar"
+    }
+]

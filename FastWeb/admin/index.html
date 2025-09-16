@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        position: relative;
+    }
+
+    .modal-bg {
+        width: 100vw;
+        height: 100vh;
+        background-color: rgba(0, 0, 0, 0.5);
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .modal-body {
+        width: 80vw;
+        height: 80vh;
+        border-radius: 10px;
+        background-color: white;
+    }
+
+    .upload-image-container {
+        position: relative;
+    }
+
+    .upload-image {
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        object-position: center;
+        cursor: pointer;
+    }
+
+    .upload-image-input {
+        width: 150px;
+        height: 150px;
+        cursor: pointer;
+        border: 1px solid red;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0;
+    }
+</style>
+
+<body>
+    <form>
+        <img id="form-image" onclick="createModal()" class="upload-image" src="./assets/subir-imagen.png"
+            alt="subir-imagen-icono">
+        <input type="text" placeholder="Nombre">
+        <input type="number" placeholder="Precio">
+        <select name="" id="">Es Oferta</select>
+        <textarea name="" id="">Descripcion</textarea>
+    </form>
+    <script src="app.js"></script>
+</body>
+
+</html>
